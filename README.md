@@ -6,5 +6,5 @@
 - 🌱 I'm working on an intensive full-time, six months software development bootcamp focusing on Python/Django development fundamentals and problem solving at Nashville Software School. I've already completed the client-side portion of the program which helped me gain more experience with JavaScript, CSS, and HTML. I have developed multiple REACT apps including the [WAX app](https://github.com/jmehart/wax). I'll be graduating in June of 2022 and I'm open to work as a software developer - feel free to reach out! 
 - 📫 How to reach me: <br>[LinkedIn](https://www.linkedin.com/in/jaimieehart/)<br>hartjme@gmail.com
 - 😄 Pronouns: She/Her
-- 🎶 Check out my radio show, [Web of Sound, on WXNA FM.](https://www.wxnafm.org/shows/web-of-sound)
+- 🎶 Check out my radio show: [Web of Sound on WXNA FM.](https://www.wxnafm.org/shows/web-of-sound)
 
